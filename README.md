@@ -78,14 +78,12 @@ An interactive **Power BI dashboard** that analyzes mobile phone sales across br
 ## 📁 Repository Structure
 
 ```
-├── dashboard.png.png       # Dashboard screenshot
+├── dashboard.png           # Dashboard screenshot
 ├── MobileSales.pbix        # Power BI dashboard file
 ├── data/
 │   └── mobile_sales.csv    # Dataset
 └── README.md
 ```
-
-> Update the file names above to match your actual files.
 
 ---
 
