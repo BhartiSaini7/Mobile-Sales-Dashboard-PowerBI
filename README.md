@@ -78,25 +78,17 @@ An interactive **Power BI dashboard** that analyzes mobile phone sales across br
 ## 📁 Repository Structure
 
 ```
-├── dashboard.png           # Dashboard screenshot
-├── MobileSales.pbix        # Power BI dashboard file
-├── data/
-│   └── mobile_sales.csv    # Dataset
-└── README.md
+├── dashboard.png    # Dashboard screenshot
+└── README.md        # Project documentation
 ```
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Explore
 
-1. Clone this repository
-   ```bash
-   git clone https://github.com/BhartiSaini7/Mobile-Sales-Dashboard-PowerBI.git
-   ```
-2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows)
-3. Open the `.pbix` file
-4. If prompted, refresh the data source so it points to `data/mobile_sales.csv`
-5. Use the **Date** and **Mobile Model** slicers to explore the data
+1. Scroll to the top of this page to view the **dashboard screenshot**.
+2. Read the **Dashboard Components** and **Key Insights** sections to understand what each visual shows.
+3. The dashboard was built in [Power BI Desktop](https://powerbi.microsoft.com/desktop/), where it works interactively with the **Date** and **Mobile Model** slicers.
 
 ---
 
