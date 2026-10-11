@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard** that analyzes mobile phone sales across brands, models, cities, payment methods, and time. It helps answer questions like *which brand sells the most, which cities drive revenue, and how do customers pay and rate their purchases?*
 
-![Dashboard Preview](dashboard.png.png)
+![Dashboard Preview](https://github.com/BhartiSaini7/Mobile-Sales-Dashboard-PowerBI/blob/main/dashboard.png.png)
 
 ---
 
